@@ -18,7 +18,9 @@ or using the .one downloads.
 ### 1B - Winter 2016
 
 [Direct Link](https://1drv.ms/u/s!AmDkogMdOs_erlvQA6Y40fKM2gG-)
+
 Math 137 [.one](/notes/Math137.zip) [.pdf](/notes/Math137.pdf)
+
 Math 135 [.one](/notes/Math135.zip) [.pdf](/notes/Math135.pdf)
 
 ### 2A - Fall 2016
