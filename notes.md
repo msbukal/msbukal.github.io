@@ -4,8 +4,13 @@ Quality gets better as terms go by.
 Most of my classes are not in the correct term students take them.
 
 .one files are OneNote files and will have more structuring for sections.
-Most of the notes are structured with a TOC at the beginning, the good copy notes for Week n followed by the rough copy notes for Week n (n rough).
-This can get confusing in the .pdf files as the headers aren't so easy to follow. Therefore, you can either access all notes for a term using the direct (always up-to-date) link or using the .one downloads.
+
+Most of the notes are structured with a TOC at the beginning, 
+the good copy notes for Week n followed by the rough copy notes for Week n (n rough).
+
+This can get confusing in the .pdf files as the headers aren't so easy to follow. 
+Therefore, you can either access all notes for a term using the direct (always up-to-date) link 
+or using the .one downloads.
 
 ### 1A - Fall 2015
 
