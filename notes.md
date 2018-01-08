@@ -38,6 +38,6 @@ CS 245
 Abroad
 
 
-###4A - Winter 2018
+### 4A - Winter 2018
 
 
