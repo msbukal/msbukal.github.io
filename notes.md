@@ -25,6 +25,7 @@ Math 135 [.one](/notes/Math135.zip) [.pdf](/notes/Math135.pdf)
 
 ### 2A - Fall 2016
 
+CS 245
 
 ### 2B - Winter 2017
 
