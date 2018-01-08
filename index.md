@@ -2,7 +2,7 @@
 Can be found [here]() *not yet
 
 ### Notes
-Can be found [here](/notes.md) *not yet
+Can be found [here](/notes.md)
 
 ### Sinchon Wiki
 Can be found [here]() *not yet
