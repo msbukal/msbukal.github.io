@@ -1,4 +1,6 @@
 # NOTES
+[back to home](/index.md)
+
 
 Quality gets better as terms go by.
 Most of my classes are not in the correct term students take them.

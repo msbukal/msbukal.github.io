@@ -1,4 +1,4 @@
-# MAIN PAGE
+# INDEX
 
 ### Resume
 Can be found [here]() *not yet
