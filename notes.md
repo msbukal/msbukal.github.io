@@ -80,9 +80,10 @@ Chem 266: Basic Organic Chem 1 [.one]() [.pdf]()
 CS 240: Data Structures and Data Mangement [.one]() [.pdf]()
 
 ### 3B - Fall 2017 - NOTE THIS WAS ABROAD
+
 Abroad at Yonsei University
 
-: Linear Algebra 2 [.one]() [.pdf]()
+MAT3120: Linear Algebra 2 [.one]() [.pdf]()
 
 ### 4A - Winter 2018
 
