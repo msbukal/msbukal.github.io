@@ -10,4 +10,4 @@ Can be found [here](/notes.md)
 Can be found [here]() *not yet
 
 ### Places I've Been
-Can be found [here]() *not yet
+Can be found [here](/places.md)
