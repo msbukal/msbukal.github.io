@@ -1,4 +1,5 @@
 # PLACES I'VE BEEN
+[back to home](/index.md)
 
 Not including layovers, because I've covered basically all of Europe in that.
 
