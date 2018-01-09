@@ -1,7 +1,7 @@
 # INDEX
 
 ### Resume
-Can be found [here]() *not yet
+Can be found [here](/resume.pdf)
 
 ### Notes
 Can be found [here](/notes.md)

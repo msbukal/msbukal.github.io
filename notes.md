@@ -12,8 +12,9 @@ This can get confusing in the .pdf files as the headers aren't so easy to follow
 Therefore, you can either access all notes for a term using the direct (always up-to-date) link 
 or using the .one downloads.
 
-Links to .one and .pdf files are on Google Drive due to file size. The entire folder can be found 
-[here](https://drive.google.com/open?id=1MABCjZaeFcJ6w1BYGX2hWr00i9tJDBRp)
+###### NOTE: Links to .one and .pdf files are on Google Drive due to file size. The entire folder can be found 
+###### [here](https://drive.google.com/open?id=1MABCjZaeFcJ6w1BYGX2hWr00i9tJDBRp)
+###### Due to the large file size, they have to be downloaded. Use direct links to avoid this if you don't trust it.
 
 
 ### 1A - Fall 2015
