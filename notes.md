@@ -4,17 +4,18 @@
 
 Quality gets better as terms go by.
 Most of my classes are not in the correct term students take them.
+My CAV is currently 86.4%
 
-Most of the notes are structured with a TOC at the beginning, 
-the good copy notes for Week n followed by the rough copy notes for Week n (n rough).
+#### Most of the notes are structured with a TOC at the beginning, the good copy notes for Week n followed by the rough copy notes for Week n (n rough).
 
-This can get confusing in the .pdf files as the headers aren't so easy to follow. 
-Therefore, you can either access all notes for a term using the direct (always up-to-date) link 
-or using the .one downloads.
+#### This can get confusing in the .pdf files as the headers aren't so easy to follow. 
+#### Therefore, you can either access all notes for a term using the direct link (RECOMMENDED) or using the .one downloads but these are .zip as they are VERY large.
 
-#### NOTE: Links to .one and .pdf files are on Google Drive due to file size. The entire folder can be found [here](https://drive.google.com/open?id=1MABCjZaeFcJ6w1BYGX2hWr00i9tJDBRp)
-#### Due to the large file size, they have to be downloaded. Use direct links to avoid this if you don't trust it.
+NOTE: Links to .one and .pdf files are on Google Drive due to file size. The entire folder can be found [here](https://drive.google.com/open?id=1MABCjZaeFcJ6w1BYGX2hWr00i9tJDBRp)
 
+Due to the large file size, they have to be downloaded. Use direct links to avoid this if you don't trust it.
+
+*****
 
 ### 1A - Fall 2015
 
@@ -38,7 +39,7 @@ CS 245: Logic and Computation [.one](https://drive.google.com/open?id=1j97Rb-raa
 
 CS 246: Object-Oriented Software Development [.one](https://drive.google.com/open?id=1UFjnW7_hZUWFcpwYxXrwdg5q9-MbGgsK)
 [.pdf](https://drive.google.com/open?id=1Lv6a1rnuW-eBJZJuB1Tq2PKoKGnHYTs8)
-i
+
 Math 138: Calculus 2 [.one](https://drive.google.com/open?id=1XPei6R4wRmOHqyb3o9lz6k4yaVqdBd5J)
 [.pdf](https://drive.google.com/open?id=1C6fukmnKbA2mxV5GnM0Ec-0zC9sIcJeu)
 
@@ -71,21 +72,25 @@ Biol 365: Methods in Bioinformatics [.one](https://drive.google.com/open?id=1CVa
 
 [Direct Link](https://1drv.ms/u/s!AmDkogMdOs_egYJDaQH8eIBXd2rwqw)
 
-Stat 231: Statistics [.one]() [.pdf]()
+Stat 231: Statistics [.one](https://drive.google.com/open?id=1zxi4HEcYx5jNn5rLe3cWFtuzHUdBsXhu)
+[.pdf](https://drive.google.com/open?id=1YR7Fz8XD_LVhWkN1GaWzKIJm-Z_3k59f)
 
-Biol 240+L: Fundamentals of Microbiology [.one]() [.pdf]()
+Biol 240+L: Fundamentals of Microbiology [.one]()
+[.pdf](https://drive.google.com/open?id=1ojT1sDdvI8p_uz-179W4IEsXPXHGfl1O)
 
-Chem 266: Basic Organic Chem 1 [.one]() [.pdf]()
+Chem 266: Basic Organic Chem 1 [.one](https://drive.google.com/open?id=1dD4fYOd-fbgxTWWex-ZhN9smk5fVSV3D)
+[.pdf](https://drive.google.com/open?id=19d6QNFf6BC-4f01AjKrNowj4U-d5d6tD)
 
-CS 240: Data Structures and Data Mangement [.one]() [.pdf]()
+CS 240: Data Structures and Data Mangement [.one](https://drive.google.com/open?id=1suCF8AcvtVOzjX8k2skQbzxCTX1H8Xse)
+[.pdf](https://drive.google.com/open?id=1A-hALRIG6wZIe1N6M-80HymFCcvBMJEH)
 
-### 3B - Fall 2017 - NOTE THIS WAS ABROAD
+### 3B - Fall 2017 - NOTE ABROAD
 
-Abroad at Yonsei University
+From an exchange at Yonsei University, South Korea
 
-MAT3120: Linear Algebra 2 [.one]() [.pdf]()
+MAT3120: Linear Algebra 2 [.one](https://drive.google.com/open?id=19cr0CsvuBbpsqdMEUjmi5pCrZg74VVsj)
+[.pdf]()
 
 ### 4A - Winter 2018
 
-[Direct Link](https://1drv.ms/u/s!AmDkogMdOs_egYJDaQH8eIBXd2rwqw) in progress
-
+[Direct Link](https://1drv.ms/u/s!AmDkogMdOs_egYJDaQH8eIBXd2rwqw) in progress (current term)

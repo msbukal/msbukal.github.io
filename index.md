@@ -1,5 +1,7 @@
 # INDEX
 
+*****
+
 ### Resume
 Can be found [here](/resume.pdf)
 
