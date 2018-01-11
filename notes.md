@@ -75,7 +75,7 @@ Biol 365: Methods in Bioinformatics [.one](https://drive.google.com/open?id=1CVa
 Stat 231: Statistics [.one](https://drive.google.com/open?id=1zxi4HEcYx5jNn5rLe3cWFtuzHUdBsXhu)
 [.pdf](https://drive.google.com/open?id=1YR7Fz8XD_LVhWkN1GaWzKIJm-Z_3k59f)
 
-Biol 240+L: Fundamentals of Microbiology [.one]()
+Biol 240+L: Fundamentals of Microbiology
 [.pdf](https://drive.google.com/open?id=1ojT1sDdvI8p_uz-179W4IEsXPXHGfl1O)
 
 Chem 266: Basic Organic Chem 1 [.one](https://drive.google.com/open?id=1dD4fYOd-fbgxTWWex-ZhN9smk5fVSV3D)
@@ -84,9 +84,9 @@ Chem 266: Basic Organic Chem 1 [.one](https://drive.google.com/open?id=1dD4fYOd-
 CS 240: Data Structures and Data Mangement [.one](https://drive.google.com/open?id=1suCF8AcvtVOzjX8k2skQbzxCTX1H8Xse)
 [.pdf](https://drive.google.com/open?id=1A-hALRIG6wZIe1N6M-80HymFCcvBMJEH)
 
-### 3B - Fall 2017 - NOTE ABROAD
+### 3B - Fall 2017 - ABROAD
 
-From an exchange at Yonsei University, South Korea
+From an exchange term at Yonsei University, South Korea
 
 MAT3120: Linear Algebra 2 [.one](https://drive.google.com/open?id=19cr0CsvuBbpsqdMEUjmi5pCrZg74VVsj)
 [.pdf]()
