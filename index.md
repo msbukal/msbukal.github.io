@@ -1,7 +1,7 @@
 # INDEX
 
 *****
-<br />
+
 ### Resume
 Can be found [here](/resume.pdf)
 
@@ -13,10 +13,6 @@ Can be found [here](http://sinchonwiki.milenabukal.me/index.php?title=Main_Page)
 
 ### Places I've Been
 Can be found [here](/places.md)
-
-<br />
-<br />
-<br />
 
 #### Contact
 
