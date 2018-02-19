@@ -1,8 +1,6 @@
 # PLACES I'VE BEEN
 [back to home](/index.md)
 
-Not including layovers, because I've covered basically all of Europe in that.
-
 I've been to Amsterdam, Korcula and Belgrade too many times. This map fails to reflect that, 
 might add some sort of ranking one day.
 

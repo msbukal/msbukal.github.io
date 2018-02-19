@@ -93,4 +93,4 @@ MAT3120: Linear Algebra 2 [.one](https://drive.google.com/open?id=19cr0CsvuBbpsq
 
 ### 4A - Winter 2018
 
-[Direct Link](https://1drv.ms/u/s!AmDkogMdOs_egYJDaQH8eIBXd2rwqw) in progress (current term)
+[Direct Link](https://eduuwaterloo-my.sharepoint.com/:o:/g/personal/msbukal_edu_uwaterloo_ca/EsPelA77qYlDpEcAda3eME8B3OChTn5VIK2EuHPRhaPlJQ) in progress (current term)
