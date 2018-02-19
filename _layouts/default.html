@@ -13,13 +13,12 @@
   <body>
     <div class="wrapper">
       <header>
-        <a href="{{ site.github.url }}"> <h1>{{ site.title | default: site.github.repository_name }}</h1> </a><hr>
-
+	<a href="/"> <h1>{{ site.title | default: site.github.repository_name }}</h1> </a><hr>
 	<img src="https://github.com/msbukal/msbukal.github.io/blob/master/image.JPG?raw=true" alt="me"> <br><br>
 
 	Computer Science/Bioinformatics Option <br>
 	University of Waterloo <br>
-        Term 4A, expected graduation 2020 <br><br>
+        Term 4A, expected graduation 2019? <br><br>
         Synesthete, Canadian & sleep deprived <br><br>
 
       </header>
@@ -28,12 +27,6 @@
       {{ content }}
 
       </section>
-      <footer>
-        {% if site.github.is_project_page %}
-        <p>This project is maintained by <a href="{{ site.github.owner_url }}">{{ site.github.owner_name }}</a></p>
-        {% endif %}
-        <p><small>Hosted on GitHub Pages &mdash; Theme by <a href="https://github.com/orderedlist">orderedlist</a></small></p>
-      </footer>
     </div>
     <script src="{{ '/assets/js/scale.fix.js' | relative_url }}"></script>
 
