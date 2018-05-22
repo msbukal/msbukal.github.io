@@ -9,6 +9,8 @@
 
 [LinkedIn](https://www.linkedin.com/in/milena-bukal-483791156/)
 
+<milena.bukal@gmail.com>
+
 <msbukal@uwaterloo.ca>
 
 ### UW Notes

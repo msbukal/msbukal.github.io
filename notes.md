@@ -93,5 +93,12 @@ MAT3120: Linear Algebra 2 [.one](https://drive.google.com/open?id=19cr0CsvuBbpsq
 
 ### 4A - Winter 2018
 
-[Direct Link](https://eduuwaterloo-my.sharepoint.com/:o:/g/personal/msbukal_edu_uwaterloo_ca/EsPelA77qYlDpEcAda3eME8B3OChTn5VIK2EuHPRhaPlJQ) in progress (current term)
+[Direct Link](https://eduuwaterloo-my.sharepoint.com/:o:/g/personal/msbukal_edu_uwaterloo_ca/EsPelA77qYlDpEcAda3eME8B3OChTn5VIK2EuHPRhaPlJQ)
 
+TODO: add these notes
+CS 350
+CS 341
+CS 370
+CHEM 273
+
+(feel free to email me for them if anyone actually uses these)
