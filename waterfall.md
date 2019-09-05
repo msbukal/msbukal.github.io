@@ -18,7 +18,7 @@ Original:
 <img src="waterfall-images/all-primitives-no-anti.png">
 
 With anti-aliasing:
-<img src="waterfall-images/all-primitive-anti.png">
+<img src="waterfall-images/all-primitives-anti.png">
 
 ### Objective 3: Depth of Field
 Original:
@@ -29,37 +29,45 @@ With depth of field:
 
 ### Objective 4: Glossy Reflection
 Mirror reflection: (previously completed)
+
 <img src="waterfall-images/objective-glossyreflection1-off.png">
 
 Glossy reflection:
+
 <img src="waterfall-images/objective-glossyreflection1-on.png">
 
---
-
 Mirror reflection:
+
 <img src="waterfall-images/objective-glossyreflection2-off.png">
 
 Glossy reflection:
+
 <img src="waterfall-images/objective-glossyreflection2-on.png">
 
 ### Objective 5: Refraction
 No refraction:
+
 <img src="waterfall-images/objective-refraction1-off.png">
 
 Refractive index = 1, fully transmissive:
+
 <img src="waterfall-images/objective-refraction-1.png">
 
 Refractive index = 1.5:
+
 <img src="waterfall-images/objective-refraction-1.5.png">
 
 ### Combining Reflection and Refraction
 Only reflection:
+
 <img src="waterfall-images/objective-refractreflect-reflect.png">
 
 Only refraction:
+
 <img src="waterfall-images/objective-refractreflect-refract.png">
 
 Both reflection and refraction:
+
 <img src="waterfall-images/objective-refractreflect-both.png">
 
 ### Objective 6: Soft Shadows
@@ -98,6 +106,10 @@ Perlin noise can also be difficult to differentiate from bump and texture mappin
 To achieve this, the intersection point t was computed, and then a random distance was added according to a set density value. (from Ray Tracing: The Next Week, Peter Shirley)
 
 ### Final Scene
+This is the final scene I achieved:
+
 <img src="waterfall-images/final-scene-image.png">
+
+And I additionally animated a short gif, to show the water moving:
 
 <img src="waterfall-images/final-scene-gif.gif">
