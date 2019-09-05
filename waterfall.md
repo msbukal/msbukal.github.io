@@ -9,6 +9,9 @@ My goal was to create a scenic scene of a waterfall, attempting to model water a
 My final paper can be found [here](waterfall-images/finalpaper.pdf) with details on theory and implementation along with references.
 
 ### Objective 1: Extra Primitives - Cylinder and Torus
+<img src="waterfall-images/objective-cylinder.png"
+     alt="cylinder prim">
+
 ![extra prims](waterfall-images/objective-cylinder.png)
 ![extra prims](waterfall-images/objective-torus.png)
 
