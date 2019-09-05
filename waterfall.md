@@ -8,6 +8,17 @@ My goal was to create a scenic scene of a waterfall, attempting to model water a
 
 My final paper can be found [here](waterfall-images/finalpaper.pdf) with details on theory and implementation along with references.
 
+### Final Scene
+This is the final scene I achieved:
+
+<img src="waterfall-images/final-scene-image.png">
+
+And I additionally animated a short gif, to show the water moving:
+
+<img src="waterfall-images/final-scene-gif.gif">
+
+I will briefly cover all the objectives I needed to implement to render this final scene.
+
 ### Objective 1: Extra Primitives - Cylinder and Torus
 <img src="waterfall-images/objective-cylinder.png">
 
@@ -104,12 +115,3 @@ Perlin noise can also be difficult to differentiate from bump and texture mappin
 <img src="waterfall-images/bonus-mist.png">
 
 To achieve this, the intersection point t was computed, and then a random distance was added according to a set density value. (from Ray Tracing: The Next Week, Peter Shirley)
-
-### Final Scene
-This is the final scene I achieved:
-
-<img src="waterfall-images/final-scene-image.png">
-
-And I additionally animated a short gif, to show the water moving:
-
-<img src="waterfall-images/final-scene-gif.gif">
