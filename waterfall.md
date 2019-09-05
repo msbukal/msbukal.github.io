@@ -12,10 +12,11 @@ My final paper can be found [here](waterfall-images/finalpaper.pdf) with details
 <img src="waterfall-images/objective-cylinder.png"
      alt="cylinder prim">
 
-![extra prims](waterfall-images/objective-cylinder.png)
-![extra prims](waterfall-images/objective-torus.png)
+<img src="waterfall-images/objective-torus.png"
+     alt="torus prim">
 
 ### Objective 2: Antialiasing (super sampling)
+
 
 ### Objective 3: Depth of Field
 
