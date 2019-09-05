@@ -1,10 +1,11 @@
 # NOTES
 [back to home](/index.md)
 
+NOTE: THIS IS INCOMPLETE
 
 Quality gets better as terms go by.
 Most of my classes are not in the correct term students take them.
-My CAV is currently 86.4%
+My CAV is currently 87.3%
 
 #### Most of the notes are structured with a TOC at the beginning, the good copy notes for Week n followed by the rough copy notes for Week n (n rough).
 
