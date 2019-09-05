@@ -26,16 +26,20 @@ I will briefly cover all the objectives I needed to implement to render this fin
 
 ### Objective 2: Antialiasing (super sampling)
 Original:
+
 <img src="waterfall-images/all-primitives-no-anti.png">
 
 With anti-aliasing:
+
 <img src="waterfall-images/all-primitives-anti.png">
 
 ### Objective 3: Depth of Field
 Original:
+
 <img src="waterfall-images/objective-no-dof.png">
 
 With depth of field:
+
 <img src="waterfall-images/objective-dof.png">
 
 ### Objective 4: Glossy Reflection
@@ -83,9 +87,11 @@ Both reflection and refraction:
 
 ### Objective 6: Soft Shadows
 Original:
+
 <img src="waterfall-images/objective-softshadows-off.png">
 
 With soft shadows:
+
 <img src="waterfall-images/objective-softshadows.png">
 
 ### Objective 7: Texture Mapping
