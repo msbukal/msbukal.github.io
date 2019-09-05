@@ -33,10 +33,10 @@ With anti-aliasing:
 
 ### Objective 3: Depth of Field
 Original:
-<img src="waterfall-images/objective-dof.png">
+<img src="waterfall-images/objective-no-dof.png">
 
 With depth of field:
-<img src="waterfall-images/objective-no-dof.png">
+<img src="waterfall-images/objective-dof.png">
 
 ### Objective 4: Glossy Reflection
 Mirror reflection: (previously completed)
