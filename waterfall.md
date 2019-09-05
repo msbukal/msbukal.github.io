@@ -2,11 +2,11 @@
 
 [back to home](/index.md)
 
-This is my Ray Tracer that I created for the final project of CS 488 at the University of Waterloo in the Spring 2019 term. I recieved the bronze medal. 
+This is my Ray Tracer that I created for the final project of CS 488: Computer Graphics at the University of Waterloo in the Spring 2019 term. I recieved the bronze medal. 
 
 My goal was to create a scenic scene of a waterfall, attempting to model water and textures.
 
-My full paper illustrating the concepts behind each objective can be found [here](waterfall-images/finalpaper.pdf).
+My final paper can be found [here](waterfall-images/finalpaper.pdf) with details on theory and implementation along with references.
 
 ### Objective 1: Extra Primitives - Cylinder and Torus
 ![extra prims](waterfall-images/objective-cylinder.png)
