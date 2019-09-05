@@ -14,11 +14,11 @@
 <msbukal@uwaterloo.ca>
 
 ### Ray Tracing, A Waterfall
-Final project for CS 488. I recieved a bronze medal. Can be found [here](/waterfall.md)
+Final project for CS 488. I recieved a bronze medal. Can be found [here](/waterfall.md).
 
 ### UW Notes
-Can be found [here](/notes.md)
-Note: currently incomplete
+Can be found [here](/notes.md).
+Note: currently incomplete.
 
 ### Places I've Been
 Can be found [here](/places.md)
