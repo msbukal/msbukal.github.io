@@ -1,0 +1,27 @@
+body {
+        background-color:#fff9fa;
+	margin:3%;
+}
+<head>
+        <title> ena.rocks </title>
+        <link rel="stylesheet" href="style.css">
+        <link rel="icon" href="assets/Icon.PNG">
+</head>
+<header>
+        <a href="">
+        <img
+                src="assets/Title.PNG"
+                alt="ena.rocks with bleeding hearts (flower)"
+                width="350"
+                height="170"
+                class="centre"
+        >
+        </a>
+        <hr>
+        <div class="bar">
+                <span> <a href="">home</a> </span>
+                <span> <a href="about.html">about</a> </span>
+        </div>
+        <hr>
+</header>
+

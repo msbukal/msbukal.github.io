@@ -1,0 +1,4 @@
+baseURL = 'https://ena.rocks/'
+languageCode = 'en-ca'
+title = 'ena.rocks'
+disableKinds = ['taxonomy', 'term']
