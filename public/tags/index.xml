@@ -1,11 +1,33 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Tags on My New Hugo Site</title>
+    <title>Tags on ena.rocks</title>
     <link>http://localhost:1313/tags/</link>
-    <description>Recent content in Tags on My New Hugo Site</description>
+    <description>Recent content in Tags on ena.rocks</description>
     <generator>Hugo</generator>
-    <language>en-us</language>
+    <language>en-ca</language>
+    <lastBuildDate>Fri, 31 Jan 2025 19:42:09 -0500</lastBuildDate>
     <atom:link href="http://localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Iamatag</title>
+      <link>http://localhost:1313/tags/iamatag/</link>
+      <pubDate>Fri, 31 Jan 2025 19:42:09 -0500</pubDate>
+      <guid>http://localhost:1313/tags/iamatag/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Chatty</title>
+      <link>http://localhost:1313/tags/chatty/</link>
+      <pubDate>Fri, 31 Jan 2025 18:14:13 +0000</pubDate>
+      <guid>http://localhost:1313/tags/chatty/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Info</title>
+      <link>http://localhost:1313/tags/info/</link>
+      <pubDate>Fri, 31 Jan 2025 18:14:13 +0000</pubDate>
+      <guid>http://localhost:1313/tags/info/</guid>
+      <description></description>
+    </item>
   </channel>
 </rss>
