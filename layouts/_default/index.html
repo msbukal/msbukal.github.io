@@ -1,5 +1,6 @@
 {{ define "main" }}
 	{{ .Content }}
+<a style="display:none" rel="me" href="https://mastodon.social/@enarocks">Mastodon</a>
 	{{ $posts := site.GetPage "posts" }}
 	{{ partial "list.html" (dict "context" . "paramposts" $posts.RegularPages ) }}
 {{ end }}
