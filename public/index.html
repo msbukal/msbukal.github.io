@@ -6,29 +6,70 @@
         <link rel="icon" href="/Icon.PNG">
 </head>
 <style>
+body {
+        margin:3%;
+}
 .centre {
   display: block;
   margin-left: auto;
   margin-right: auto;
 }
+.bar {
+        display: flex;
+        justify-content: space-between;
+        margin-left:20%;
+        margin-right:20%;
+}
 </style>
 <header>
-        <a href="">
+        <a href="/">
         <img
                 src="/Title.PNG"
                 alt="ena.rocks with bleeding hearts (flower)"
                 width="350"
                 height="170"
-		class="centre"
+                class="centre"
         >
         </a>
+        <hr>
+        <div class="bar">
+                <span> <a href="/">home</a> </span>
+                <span> <a href="/about/">about</a> </span>
+        </div>
+        <hr>
 </header>
+
+
 <body style="background-color:#fff9fa;">
 	
-	<p>This line is from <code>content/_index.md</code>.</p>
-<p><a href="/posts/my-first-post/">Go to firstpost</a>.</p>
+	
+	
+	
+	<h3 style="display:inline"><a href="/posts/my-first-post/">My First Post</a></h3>
+	<p style="display:inline;font-size:15px;white-space:pre">  2024-01-14 07:07 </p>
+	<dd>
 
-  <p>This line is from <code>layouts/index.html</code>.</p>
+	{<a href="http://localhost:1313/tags/chatty">chatty</a>}
+
+</dd>
+
+
+        <p> my first post! wow! </p>
+
+	<h3 style="display:inline"><a href="/posts/second-page/">Second Page</a></h3>
+	<p style="display:inline;font-size:15px;white-space:pre">  2025-01-31 18:14 </p>
+	<dd>
+
+	{<a href="http://localhost:1313/tags/info">info</a>}
+
+	{<a href="http://localhost:1313/tags/chatty">chatty</a>}
+
+</dd>
+
+
+        <p> In which there is a second page </p>
+
+
 
 </body>
 </html>

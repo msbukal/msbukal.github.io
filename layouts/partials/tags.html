@@ -1,0 +1,6 @@
+<dd>
+{{ range .Params.tags }}
+	{<a href="{{ add (absURL `tags/`) (.) }}">{{ . }}</a>}
+{{ end }}
+</dd>
+

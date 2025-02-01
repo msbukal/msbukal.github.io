@@ -2,6 +2,4 @@
 title: "Home page"
 ---
 
-This line is from `content/_index.md`.
-
-[Go to firstpost](/posts/my-first-post/).
+<!-- This line is from `content/_index.md`. -->

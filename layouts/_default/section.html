@@ -1,4 +1,4 @@
 {{ define "main" }}
 	{{ .Content }}
-  <p>This line is from <code>layouts/_default/section.html</code>.</p>
+        {{ partial "list.html" (dict "context" . "paramposts" .RegularPages.ByPublishDate ) }}
 {{ end }}

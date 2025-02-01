@@ -1,0 +1,7 @@
+{{ define "main" }}
+	{{ if .Title }} <h2>Tag: {{ .Title }}</h2> {{ end }}
+	{{ .Content }}
+	{{ partial "list.html" (dict "context" . "paramposts" .Pages) }}
+{{ end }}
+
+

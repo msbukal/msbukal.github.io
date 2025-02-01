@@ -1,0 +1,6 @@
+{{ range .paramposts }}
+	<h3 style="display:inline"><a href="{{ .RelPermalink  }}">{{ .Title }}</a></h3>
+	<p style="display:inline;font-size:15px;white-space:pre">  {{ time.Format "2006-01-02 15:04" .PublishDate }} </p>
+	{{ partial "tags.html" . }}
+        <p> {{ .Params.desc }} </p>
+{{ end }}
