@@ -1,0 +1,2 @@
+<h2 style="display:inline"><a href="{{ .RelPermalink  }}">{{ .Title }}</a></h2>
+{{ if .PublishDate }} <p style="display:inline;font-size:15px;white-space:pre">  {{ time.Format "2006-01-02 15:04" .PublishDate }} </p> {{ end }}

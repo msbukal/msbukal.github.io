@@ -1,5 +1,4 @@
 {{ define "main" }}
-	<h1> {{ .Title }} </h2>
-	{{ if .Date }} <p> {{ .Date }} </p> {{ end }}
+	{{ partial "titledate.html" . }}
 	<div> {{ .Content }} </div>
 {{ end }}

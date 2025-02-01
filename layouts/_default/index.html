@@ -1,5 +1,5 @@
 {{ define "main" }}
 	{{ .Content }}
 	{{ $posts := site.GetPage "posts" }}
-	{{ partial "list.html" (dict "context" . "paramposts" $posts.RegularPages.ByPublishDate ) }}
+	{{ partial "list.html" (dict "context" . "paramposts" $posts.RegularPages ) }}
 {{ end }}
